@@ -1,0 +1,49 @@
+# === General ===
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# === Windows ===
+Thumbs.db
+
+# === Draw.io backups ===
+*.drawio.bkp
+*.drawio~*
+
+# === Visual Studio / C# ===
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs/
+*.dbmdl
+*.jfm
+
+# .NET
+*.dll
+*.pdb
+*.exe
+*.json.gz
+*.pubxml
+*.publish.xml
+
+# === IntelliJ IDEA (Java/Kotlin) ===
+.idea/
+*.iml
+out/
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# === Android ===
+local.properties
+*.keystore
+*.jks
+
+# Android generated files
+capture
